@@ -37,9 +37,10 @@ AI21X is revolutionizing the blockchain AI landscape with our proprietary Conver
 
 - Website: [https://www.ai21x.ai/](https://www.ai21x.ai/)
 - Twitter: [@ai21x_labs](https://twitter.com/ai21x_labs)
+- Telegram: [https://t.me/ai21x_labs](https://t.me/ai21x_labs)
+- $AI21X: [https://www.dextools.io/app/en/bnb/pair-explorer/0xa4b3c5deb618d1c28782226549bf5c5e7cb64ffb?t=1739967894972]
+- $AI21X CA: 0xA2171868C06e578ffF91fDfD186b22A3dF3fF2C7
 - Email: build@ai21x.ai
-
-### 🔧 Technology Stack
 
 ### 🔧 Technology Stack
 
