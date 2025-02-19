@@ -2,34 +2,58 @@
   <img width="800" height="300" src="https://github.com/AI21X/AI21X/blob/main/AI21X%20COVER.png" />
 </p>
 
-<h3 align="center">Powering the Next Generation of Onchain AI Revolution With: C.A.I (Convergent Artificial Intelligence)</h3>
+<h3 align="center">Pioneering the Convergent AI Revolution on Binance Smart Chain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ai21x&label=Profile%20views&color=0e75b6&style=flat" alt="ai21x" /> </p>
+<p align="center">Building the First Decentralized Convergent AI Agent Creation Hub | Powered by C.A.I Technology</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai21x" alt="ai21x" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/ai21x_labs" target="blank"><img src="https://img.shields.io/twitter/follow/ai21x_labs?logo=twitter&style=for-the-badge" alt="ai21x_labs" /></a> </p>
+### 🤖 About AI21X
 
-- 🔭 I’m currently working on **CAI**
+AI21X is revolutionizing the blockchain AI landscape with our proprietary Convergent AI (C.A.I) technology. We're building the world's first decentralized AI Agent creation and deployment platform on BSC, where multiple AI models converge into singular, powerful agents.
 
-- 👯 I’m looking to collaborate on **CAI**
+### 🔮 Our Vision
 
-- 🤝 I’m looking for help with **CAI**
+- Building an open-source framework for Convergent AI Agent creation
+- Empowering developers to deploy custom AI agents on BSC
+- Creating a secure, vetted ecosystem for high-quality AI innovations
+- Pioneering autonomous, decentralized AI solutions
 
-- 👨‍💻 All of my projects are available at [https://www.ai21x.ai/](https://www.ai21x.ai/)
+### 🛠️ Current Projects
 
-- 📫 How to reach me **build@ai21x.ai**
+- **AI666**: Decentralized, censorship-free AI platform (Live Soon)
+- **HENTAI**: Interactive AI-powered entertainment platform (Live Soon)
+- **Satoshi.FM**: First AI-driven Web3 podcaster and news outlet (Launching Soon)
+- **CAI Framework**: Open-source Convergent AI Agent Creation Framework
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ai21x_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ai21x_labs" height="30" width="40" /></a>
-</p>
+### 💎 $AI21X Token
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- Fixed supply: 100 million tokens
+- Powers governance and ecosystem incentives
+- Primary liquidity token for AI agent deployment
+- Exclusive airdrops for holders
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ai21x&show_icons=true&locale=en&layout=compact" alt="ai21x" /></p>
+### 🌐 Connect & Contribute
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ai21x&show_icons=true&locale=en" alt="ai21x" /></p>
+- Website: [https://www.ai21x.ai/](https://www.ai21x.ai/)
+- Twitter: [@ai21x_labs](https://twitter.com/ai21x_labs)
+- Email: build@ai21x.ai
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai21x&" alt="ai21x" /></p>
+### 🔧 Technology Stack
+
+Our framework leverages cutting-edge technologies across the stack:
+
+`AWS` `Docker` `Node.js` `Python` `React` `TypeScript` `Solidity` `TensorFlow` `PyTorch` `GraphQL` `MongoDB` `PostgreSQL`
+
+### 🗺️ Roadmap Highlights
+
+1. TGE of Current AI Agent Projects
+2. AI21X Convergent Agent Launchpad
+3. Satoshi.FM Launch
+4. New Agent Launches
+5. Community Airdrops
+6. Metaverse Integration
+
+---
+
+<p align="center">Join us in shaping the future of decentralized AI on BSC</p>
