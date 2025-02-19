@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm ai21x</h1>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/hamsathul/hamsathul/blob/main/pixels-neon.gif" />
+</p>
+
 <h3 align="center">Powering the Next Generation of Onchain AI Revolution With: C.A.I (Convergent Artificial Intelligence)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai21x&label=Profile%20views&color=0e75b6&style=flat" alt="ai21x" /> </p>
